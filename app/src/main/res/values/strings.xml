@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Texts</string>
+    <string name="textView1">No Name</string>
+    <string name="button1">Push to See Your Name!</string>
+    <string name="text_box_label">Hello TJ</string>
+    <string name="button2">Push to Change the Word!</string>
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Indigo</item>
+        <item>Violet</item>
+    </string-array>
+</resources>
